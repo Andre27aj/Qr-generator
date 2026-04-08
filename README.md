@@ -1,5 +1,7 @@
 # QR Generator
 
+**Live site:** [qrcode.ajoaquim.com](https://qrcode.ajoaquim.com)
+
 A clean, minimal QR code generator that runs entirely in the browser — no server, no build tools, no dependencies to install.
 
 ## Features
